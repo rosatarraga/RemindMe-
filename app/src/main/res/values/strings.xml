@@ -3,4 +3,6 @@
     <string name="app_name">Remind me!</string>
     <string name="edit_message">Choose who you are</string>
     <string name="button_send">Send</string>
+    <string name="title_activity_games">Games</string>
+    <string name="title_activity_daily_questions">DailyQuestions</string>
 </resources>

@@ -16,7 +16,15 @@
             </intent-filter>
         </activity>
         <activity android:name=".DisplayMessageActivity" />
-        <activity android:name=".Patient"></activity>
+        <activity android:name=".Patient" />
+        <activity
+            android:name=".Games"
+            android:label="@string/title_activity_games"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DailyQuestions"
+            android:label="@string/title_activity_daily_questions"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
